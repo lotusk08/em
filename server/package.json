@@ -1,0 +1,26 @@
+{
+    "name": "http-mini",
+    "version": "1.0.4",
+    "description": "a simple static web server base on Express",
+    "main": "index.js",
+    "bin": {
+        "http-mini": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Steve Hoàng",
+    "repository": {
+        "type": "git",
+        "url": "https://stevehoang.com"
+    },
+    "homepage": "https://stevehoang.com",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.20.1",
+        "chokidar": "^2.0.3",
+        "express": "^4.18.2",
+        "node-xlsx": "^0.21.0",
+        "opn": "^5.3.0"
+    }
+}
