@@ -1,0 +1,8 @@
+{
+  "index.ignored_file_patterns" : [
+    ".DS_Store",
+    ".nova"
+  ],
+  "workspace.color" : 8,
+  "workspace.preview_type" : "custom"
+}
